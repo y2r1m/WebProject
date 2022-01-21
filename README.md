@@ -1,4 +1,4 @@
-## [ One Click Playlist : 원클릭 플레이리스트 공유 사이트 ] 실행 가이드
+# One Click Playlist : 원클릭 플레이리스트 공유 사이트
 
 ### 제작 환경
 - jdk 16.0.2
